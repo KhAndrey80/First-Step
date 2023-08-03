@@ -1,0 +1,15 @@
+D:\Andrey Education\Lection1\Ex1\Girki\bin\Debug\net6.0\Girki.exe
+D:\Andrey Education\Lection1\Ex1\Girki\bin\Debug\net6.0\Girki.deps.json
+D:\Andrey Education\Lection1\Ex1\Girki\bin\Debug\net6.0\Girki.runtimeconfig.json
+D:\Andrey Education\Lection1\Ex1\Girki\bin\Debug\net6.0\Girki.dll
+D:\Andrey Education\Lection1\Ex1\Girki\bin\Debug\net6.0\Girki.pdb
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.csproj.AssemblyReference.cache
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.AssemblyInfoInputs.cache
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.AssemblyInfo.cs
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.csproj.CoreCompileInputs.cache
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.dll
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\refint\Girki.dll
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.pdb
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\Girki.genruntimeconfig.cache
+D:\Andrey Education\Lection1\Ex1\Girki\obj\Debug\net6.0\ref\Girki.dll
