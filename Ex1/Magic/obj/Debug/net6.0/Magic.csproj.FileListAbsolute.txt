@@ -1,0 +1,15 @@
+D:\Andrey Education\Lection1\Ex1\Magic\bin\Debug\net6.0\Magic.exe
+D:\Andrey Education\Lection1\Ex1\Magic\bin\Debug\net6.0\Magic.deps.json
+D:\Andrey Education\Lection1\Ex1\Magic\bin\Debug\net6.0\Magic.runtimeconfig.json
+D:\Andrey Education\Lection1\Ex1\Magic\bin\Debug\net6.0\Magic.dll
+D:\Andrey Education\Lection1\Ex1\Magic\bin\Debug\net6.0\Magic.pdb
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.csproj.AssemblyReference.cache
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.AssemblyInfoInputs.cache
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.AssemblyInfo.cs
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.csproj.CoreCompileInputs.cache
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.dll
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\refint\Magic.dll
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.pdb
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\Magic.genruntimeconfig.cache
+D:\Andrey Education\Lection1\Ex1\Magic\obj\Debug\net6.0\ref\Magic.dll
